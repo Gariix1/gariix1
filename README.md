@@ -121,4 +121,10 @@ I specialize in **systems integration**, **ETL pipelines**, and **process optimi
 
 ---
 
-📌 _“Driven by passion, guided by purpose, and powered by code.”_
+---
+
+📌 _"Fueled by curiosity, grounded in purpose, and driven to code solutions that matter."_
+
+> 🔐 _"There is no such thing as 100% security. The goal is to reduce risk, not eliminate it."_  
+> — Common cybersecurity principle
+
