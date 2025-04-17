@@ -64,15 +64,24 @@ I specialize in **systems integration**, **ETL pipelines**, and **process optimi
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ### 🧩 Architecture & Integration  
-- Layered Architecture  
-- REST APIs / SOAP / XML  
-- ETL Pipelines in C#  
-- System Prototyping with StarUML / Bizagi  
+
+![Architecture](https://img.shields.io/badge/-Layered%20Architecture-555555?style=flat-square)
+![REST](https://img.shields.io/badge/-REST%20APIs-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![SOAP](https://img.shields.io/badge/-SOAP/XML-007396?style=flat-square&logo=w3c&logoColor=white)
+![C# ETL](https://img.shields.io/badge/-ETL%20in%20C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![StarUML](https://img.shields.io/badge/-StarUML-000000?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
+![Bizagi](https://img.shields.io/badge/-Bizagi-009639?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
+
+---
 
 ### 🏢 ERP & Business Systems  
-- Dynamics AX 2012 (MorphX, X++, .NET CIL)  
-- Electronic Invoicing & Workflow Support  
-- Database Maintenance & Migration  
+
+![Dynamics AX](https://img.shields.io/badge/-Dynamics%20AX%202012-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![X++](https://img.shields.io/badge/-X++-000000?style=flat-square&logo=codeforces&logoColor=white)
+![.NET CIL](https://img.shields.io/badge/-.NET%20CIL-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![E-invoicing](https://img.shields.io/badge/-Electronic%20Invoicing-4CAF50?style=flat-square&logo=bookstack&logoColor=white)
+![Database Migration](https://img.shields.io/badge/-Database%20Migration-F29D50?style=flat-square&logo=sqlite&logoColor=white)
+
 
 ### 🎮 Others  
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
