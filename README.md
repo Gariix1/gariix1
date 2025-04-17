@@ -27,29 +27,60 @@ I specialize in **systems integration**, **ETL pipelines**, and **process optimi
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-Python, Java, C#, PHP, JavaScript (Node.js), TypeScript  
+### 👨‍💻 Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Frameworks & Libraries**  
-Flask, Django, Symfony, PHPMaker, PHP Mailer, Java EE (JSP, Servlets), PrimeNG  
+### ⚙️ Frameworks & Libraries  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/-PrimeNG-0C7CD5?style=flat-square&logo=prime&logoColor=white)
 
-**Frontend & UI**  
-HTML5, CSS3, SCSS, Tailwind CSS, Ajax, Regex Validation  
+### 🎨 Frontend & UI  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Regex](https://img.shields.io/badge/-Regex-000000?style=flat-square&logo=data:image/svg+xml;base64,)
 
-**Databases**  
-OracleDB, PostgreSQL, SQL Server, MySQL  
+### 🛢️ Databases  
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Tools**  
-Postman, Figma, Lucidchart, Bizagi, StarUML, Visual Studio, NetBeans, IntelliJ  
+### 🧰 Tools & IDEs  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/-Lucidchart-F1B600?style=flat-square&logo=lucidchart&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-**Architecture & Integration**  
-Layered architecture, RESTful APIs, SOAP/XML, ETL with C#, System Prototyping  
+### 🧩 Architecture & Integration  
+- Layered Architecture  
+- REST APIs / SOAP / XML  
+- ETL Pipelines in C#  
+- System Prototyping with StarUML / Bizagi  
 
-**ERP & Business Systems**  
-Dynamics AX 2012, Electronic Invoicing & Workflow Support, Database Migration  
+### 🏢 ERP & Business Systems  
+- Dynamics AX 2012 (MorphX, X++, .NET CIL)  
+- Electronic Invoicing & Workflow Support  
+- Database Maintenance & Migration  
 
-**Other**  
-Unity (basic), Unreal Engine 5 (basic), macOS, Ubuntu (Server), Windows Server  
+### 🎮 Others  
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
 
 ---
 
