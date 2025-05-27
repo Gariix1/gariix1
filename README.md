@@ -26,6 +26,15 @@ Además, tengo conocimientos sólidos en **diseño web**, utilizando herramienta
 
 ---
 
+## 🌐 Enlaces
+
+- 📂 [Sitio Web](https://gariix1.github.io/portfo/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gary-taboada-2b381320a)  
+- 📧 fasza212@gmail.com  
+- 📱 (+593) 99 267 8478  
+
+---
+
 ## 🎨 Diseño y Creatividad
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)  
@@ -120,15 +129,6 @@ Además, tengo conocimientos sólidos en **diseño web**, utilizando herramienta
 - 🗣️ Comunicación Técnica Clara  
 - 🔍 Atención a la Calidad y Optimización del Código  
 - 📚 Aprendizaje Autónomo e Investigación  
-
----
-
-## 🌐 Enlaces
-
-- 📂 [Sitio Web](https://gariix1.github.io/portfo/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gary-taboada-2b381320a)  
-- 📧 fasza212@gmail.com  
-- 📱 (+593) 99 267 8478  
 
 ---
 
