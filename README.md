@@ -28,15 +28,19 @@ Además, tengo conocimientos sólidos en **diseño web**, utilizando herramienta
 
 ## 🎨 Diseño y Creatividad
 
-- Adobe Photoshop  
-- Adobe Illustrator  
-- Adobe XD  
-- Adobe Premiere  
-- Adobe InDesign  
-- CapCut  
-- Canva  
-- Figma  
-- Diseño Web Responsivo (HTML, CSS, JS, Tailwind, Bootstrap)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)  
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)  
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)  
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)  
+![InDesign](https://img.shields.io/badge/-InDesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white)  
+![CapCut](https://img.shields.io/badge/-CapCut-000000?style=flat-square&logo=capcut&logoColor=white)  
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
